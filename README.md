@@ -1,1 +1,1 @@
-Este es el primer ejercicio de el tutorial que estoy haciendo con THE ODIN PROJECT. Consiste en recrear la homepage de google.
+Este es el primer ejercicio de el tutorial que estoy haciendo. Consiste en recrear la homepage de google, me costo bastante y me tuve que fijar varias cosas de formato para que sea lo mas parecido posible.
